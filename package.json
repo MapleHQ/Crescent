@@ -1,0 +1,13 @@
+{
+  "name": "crescent-monorepo",
+  "private": "true",
+  "author": {
+    "name": "Stargaze Lumiere",
+    "email": "stargazelumiere@gmail.com",
+    "url": "https://github.com/star122o"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "GPL-3.0"
+}
