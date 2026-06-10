@@ -1,0 +1,6 @@
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/star122o/crescent-protocol
+[submodule "auth"]
+	path = auth
+	url = https://github.com/star122o/crescent-auth
